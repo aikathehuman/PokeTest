@@ -11,3 +11,4 @@
 
 ## 4. Outside the funcion: Create an if statement. If a pokemon's info (json file) is retreived successfully, the selected information will then be printed.
 #### NOTE: By doing this, the data will be returned in a cleaner and more leggible way, since the dictionary itself is too big and display too many information.
+# DONE
